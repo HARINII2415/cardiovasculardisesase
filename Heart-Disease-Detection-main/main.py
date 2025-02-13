@@ -14,7 +14,7 @@ def load_data():
     columns = ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg',
                'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target']
 
-    df = pd.read_csv(r'C:\Users\harin\Downloads\Heart-Disease-Detection-main\Heart-Disease-Detection-main\heart.csv')
+    df = pd.read_csv(r'Heart-Disease-Detection-main\heart.csv')
     return df
 
 
