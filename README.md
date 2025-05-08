@@ -17,8 +17,7 @@ This is a Machine Learning-based web application that helps predict the risk of 
 
 ## 📊 Tech Stack
 
-- **Frontend:** HTML5, CSS3, Bootstrap  
-- **Backend:** Python, Flask  
+- **Frontend:** Streamlit
 - **ML Model:** Logistic Regression / Random Forest (customizable)  
 - **Deployment:** Render
 
